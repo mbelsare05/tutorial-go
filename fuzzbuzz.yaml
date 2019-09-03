@@ -6,5 +6,5 @@ targets:
     corpus: ./corpus
     harness:
       function: FuzzerEntrypoint
-      package: github.com/fuzzbuzz/tutorial
-      checkout: github.com/fuzzbuzz/tutorial
+      package: github.com/mbelsare05/tutorial
+      checkout: github.com/mbelsare05/tutorial
